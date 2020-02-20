@@ -1,6 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://elloza.com/DeepPsychometricsWeb/blog/aemcco-congress/</loc>
+    <lastmod>2019-07-11T12:29:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://elloza.com/DeepPsychometricsWeb/tags/conference/</loc>
+    <lastmod>2019-07-11T12:29:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://elloza.com/DeepPsychometricsWeb/</loc>
+    <lastmod>2019-07-11T12:29:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://elloza.com/DeepPsychometricsWeb/tags/inspiration/</loc>
+    <lastmod>2019-07-11T12:29:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://elloza.com/DeepPsychometricsWeb/tags/</loc>
+    <lastmod>2019-07-11T12:29:40+06:00</lastmod>
+  </url>
   
   <url>
     <loc>http://elloza.com/DeepPsychometricsWeb/blog/</loc>
@@ -8,32 +33,7 @@
   </url>
   
   <url>
-    <loc>http://elloza.com/DeepPsychometricsWeb/blog/a-new-year-a-new-posibility/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://elloza.com/DeepPsychometricsWeb/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://elloza.com/DeepPsychometricsWeb/tags/inspiration/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://elloza.com/DeepPsychometricsWeb/tags/motivation/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://elloza.com/DeepPsychometricsWeb/tags/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://elloza.com/DeepPsychometricsWeb/blog/building-an-online-audience/</loc>
+    <loc>http://elloza.com/DeepPsychometricsWeb/blog/examples/building-an-online-audience/</loc>
     <lastmod>2018-07-15T12:27:38+06:00</lastmod>
   </url>
   
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>http://elloza.com/DeepPsychometricsWeb/blog/space-shouldnt-be-the-final-frontier/</loc>
+    <loc>http://elloza.com/DeepPsychometricsWeb/blog/examples/space-shouldnt-be-the-final-frontier/</loc>
     <lastmod>2018-07-15T12:21:58+06:00</lastmod>
   </url>
   
@@ -118,7 +118,7 @@
   </url>
   
   <url>
-    <loc>http://elloza.com/DeepPsychometricsWeb/blog/installation/</loc>
+    <loc>http://elloza.com/DeepPsychometricsWeb/blog/examples/installation/</loc>
     <lastmod>2018-07-08T12:22:40+06:00</lastmod>
   </url>
   

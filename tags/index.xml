@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Deeppsychometrics | Responsive Multipurpose Bootstrap Hugo Template</title>
@@ -6,26 +6,26 @@
     <description>Recent content in Tags on Deeppsychometrics | Responsive Multipurpose Bootstrap Hugo Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jul 2018 12:29:40 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2019 12:29:40 +0600</lastBuildDate>
     
 	<atom:link href="http://elloza.com/DeepPsychometricsWeb/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>inspiration</title>
-      <link>http://elloza.com/DeepPsychometricsWeb/tags/inspiration/</link>
-      <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
+      <title>Conference</title>
+      <link>http://elloza.com/DeepPsychometricsWeb/tags/conference/</link>
+      <pubDate>Thu, 11 Jul 2019 12:29:40 +0600</pubDate>
       
-      <guid>http://elloza.com/DeepPsychometricsWeb/tags/inspiration/</guid>
+      <guid>http://elloza.com/DeepPsychometricsWeb/tags/conference/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>motivation</title>
-      <link>http://elloza.com/DeepPsychometricsWeb/tags/motivation/</link>
-      <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
+      <title>inspiration</title>
+      <link>http://elloza.com/DeepPsychometricsWeb/tags/inspiration/</link>
+      <pubDate>Thu, 11 Jul 2019 12:29:40 +0600</pubDate>
       
-      <guid>http://elloza.com/DeepPsychometricsWeb/tags/motivation/</guid>
+      <guid>http://elloza.com/DeepPsychometricsWeb/tags/inspiration/</guid>
       <description></description>
     </item>
     
